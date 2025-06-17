@@ -6,7 +6,15 @@ This program uses Python and the Tensorflow / Keras modules to classify Weather 
 
 ** Runned and Tested in Google Colab **
 
+## Dataset
+
+This dataset contains 6862 images of different types of weather, it can be used to implement weather classification based on the photo.
+
+https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+
 ## Classes for Classification
+
+The pictures are divided into 11 classes:
 
   1) dew
   
@@ -29,3 +37,5 @@ This program uses Python and the Tensorflow / Keras modules to classify Weather 
   10) sandstorm
   
   11) snow
+
+## 
