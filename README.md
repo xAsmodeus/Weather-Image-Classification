@@ -1,16 +1,22 @@
 # Weather Image Classification
 
+---
+
 ## Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
 
                                               ** Runned and Tested in Google Colab **
 
+---
+
 ## Dataset
 
 This dataset contains 6862 images of different types of weather, it can be used to implement weather classification based on the photo.
 
 https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+
+---
 
 ## Classes for Classification
 
@@ -38,9 +44,13 @@ The pictures are divided into 11 classes:
   
   11) snow
 
-## Approach / Methodology
+---
+
+## Approach
 
 There was a testing of parameters in the model(lr, different optimizers , dropout rates , pre-trained models and data-augmentation). The model was trained in 20 epochs, with a MobileNetV2/ResNet150V2 with early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
+
+---
 
 ## References
 
