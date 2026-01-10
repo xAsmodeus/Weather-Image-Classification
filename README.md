@@ -1,7 +1,5 @@
 <h1 align="center"> Weather Image Classification </h1>
 
-> **Runned and Tested in Google Colab**
-
 ---
 
 ## 📚 Table of Contents
@@ -14,6 +12,12 @@
 ## 🔍 Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
+
+---
+
+## 🧪 Tests
+
+- Run and tested on Google Colab
 
 ---
 
