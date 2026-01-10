@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Classes for Classification](#classesforclasssification)
+  - [Classes](#classes)
 - [Approach](#approach)
 - [References](#references)
 
@@ -23,7 +23,7 @@ Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-d
 
 ---
 
-## Classes for Classification
+## Classes
 
 The pictures are divided into 11 classes:
 
