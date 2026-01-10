@@ -11,10 +11,7 @@ This program uses Python and the Tensorflow / Keras modules to classify Weather 
 ---
 
 ## Dataset
-
-This dataset contains 6862 images of different types of weather, it can be used to implement weather classification based on the photo.
-
-https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+Download from [OFFICIAL]([https://challenge.isic-archive.com/data#2018](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset))
 
 ---
 
