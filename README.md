@@ -7,17 +7,12 @@
 - [Dataset](#dataset)
   - [Classes](#classes)
 - [Approach](#approach)
+  [Tests](#tests)
 - [References](#references)
 
 ## 🔍 Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
-
----
-
-## 🧪 Tests
-
-- Run and tested on Google Colab
 
 ---
 
@@ -58,6 +53,12 @@ The pictures are divided into 11 classes:
 ## 🧠 Approach
 
 There was a testing of parameters in the model(lr, different optimizers , dropout rates , pre-trained models and data-augmentation). The model was trained in 20 epochs, with a MobileNetV2/ResNet150V2 with early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
+
+---
+
+## 🧪 Tests
+
+- Run and tested on Google Colab
 
 ---
 
