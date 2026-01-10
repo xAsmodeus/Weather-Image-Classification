@@ -7,7 +7,7 @@
 - [Dataset](#dataset)
   - [Classes](#classes)
 - [Approach](#approach)
-  -[Tests](#tests)
+  - [Tests](#tests)
 - [References](#references)
 
 ## 🔍 Overview
