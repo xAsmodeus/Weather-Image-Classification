@@ -2,13 +2,15 @@
 
 ---
 
-<-- ## 📚 Table of Contents
+<!--
+## 📚 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
   - [Classes](#classes)
 - [Approach](#approach)
   - [Tests](#tests)
-- [References](#references) -->
+- [References](#references)
+-->
 
 ## 🔍 Overview
 
