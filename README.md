@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Classes_for_Classification](#classesforclasssification)
+- [Classes for Classification](#classesforclasssification)
 - [Approach](#approach)
 - [References](#references)
 
