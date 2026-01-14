@@ -79,3 +79,8 @@ There was a testing of parameters in the model(lr, different optimizers , dropou
   6. https://www.youtube.com/watch?v=F8uFAkHfK18
   
   7. https://www.youtube.com/watch?v=LPGAGg3c8SE
+
+---
+
+## ⚖️ Licence
+  
