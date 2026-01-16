@@ -12,7 +12,7 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
 
