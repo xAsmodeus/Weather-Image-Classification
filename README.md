@@ -2,7 +2,6 @@
 
 ---
 
-
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -10,7 +9,6 @@
 - [Approach](#approach)
   - [Tests](#tests)
 - [References](#references)
-
 
 ## 🔍 Overview
 
