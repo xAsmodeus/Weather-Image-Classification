@@ -3,7 +3,7 @@
 ---
 
 ## 📚 Table of Contents
-- [🔍- Overview](#overview)
+- [Overview](#overview)
 - [Dataset](#dataset)
 - [Classes](#classes)
 - [Approach](#approach)
