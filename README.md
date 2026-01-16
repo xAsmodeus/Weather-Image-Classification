@@ -1,5 +1,4 @@
-
-# Weather Image Classification
+<h1 align="center"> Weather Image Classification </h1>
 
 ---
 
