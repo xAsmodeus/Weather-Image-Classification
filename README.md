@@ -24,7 +24,7 @@ Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-d
 
 ---
 
-## 🏷️ Classes
+### 🏷️ Classes
 
 The pictures are divided into 11 classes:
 
@@ -58,7 +58,7 @@ There was a testing of parameters in the model(lr, different optimizers , dropou
 
 ---
 
-## 🧪 Tests
+### 🧪 Tests
 
 - Run and tested on Google Colab
 
