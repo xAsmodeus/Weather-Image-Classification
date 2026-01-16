@@ -83,4 +83,9 @@ There was a testing of parameters in the model(lr, different optimizers , dropou
 ---
 
 ## ⚖️ Licence
-  
+(empty for the moment)
+
+---
+
+## 💬 Contact
+For any questions, contact me via email: georgekoupni@gmail.com
