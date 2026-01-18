@@ -9,6 +9,8 @@
 - [Approach](#approach)
 - [Tests](#tests)
 - [References](#references)
+- [Licence](#licence)
+- [Contact](#contact)
 
 ---
 
