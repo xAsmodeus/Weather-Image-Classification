@@ -7,7 +7,7 @@
 - [Dataset](#dataset)
 - [Classes](#classes)
 - [Approach](#approach)
-- [Tests](#tests)
+- [Tools & Technologies](#tools-technologies)
 - [References](#references)
 - [Licence](#licence)
 - [Contact](#contact)
@@ -59,8 +59,6 @@ The pictures are divided into 11 classes:
 There was a testing of parameters in the model(lr, different optimizers , dropout rates , pre-trained models and data-augmentation). The model was trained in 20 epochs, with a MobileNetV2/ResNet150V2 with early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
 
 ---
-
-## 🧪 Tests
 
 ## 🛠️ Tools & Technologies
 
