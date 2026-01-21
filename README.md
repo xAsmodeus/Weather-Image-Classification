@@ -62,7 +62,10 @@ There was a testing of parameters in the model(lr, different optimizers , dropou
 
 ## 🧪 Tests
 
-- Run and tested on Google Colab
+## 🛠️ Tools & Technologies
+
+- **Language:** Python (v.??)
+- **Libraries:** (???)
 
 ---
 
