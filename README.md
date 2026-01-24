@@ -65,8 +65,6 @@ Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-d
 
 ---
 
----
-
 ## ⚖️ Licence
 (empty for the moment)
 
