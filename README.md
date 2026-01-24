@@ -4,10 +4,10 @@
 
 ## 📚 Table of Contents
 - [Overview](#overview)
-- [Dataset](#dataset)
-- [Classes](#classes)
 - [Approach](#approach)
+- [Classes](#classes)
 - [Tools & Technologies](#tools-technologies)
+- [Dataset](#dataset)
 - [References](#references)
 - [Licence](#licence)
 - [Contact](#contact)
@@ -20,9 +20,9 @@ This program uses Python and the Tensorflow / Keras modules to classify Weather 
 
 ---
 
-## 📊 Dataset
+## 🧠 Approach
 
-Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+There was a testing of parameters in the model(lr, different optimizers , dropout rates , pre-trained models and data-augmentation). The model was trained in 20 epochs, with a MobileNetV2/ResNet150V2 with early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
 
 ---
 
@@ -54,16 +54,16 @@ The pictures are divided into 11 classes:
 
 ---
 
-## 🧠 Approach
-
-There was a testing of parameters in the model(lr, different optimizers , dropout rates , pre-trained models and data-augmentation). The model was trained in 20 epochs, with a MobileNetV2/ResNet150V2 with early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Language:** Python (v.??)
 - **Libraries:** (???)
+
+---
+
+## 📊 Dataset
+
+Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
 
