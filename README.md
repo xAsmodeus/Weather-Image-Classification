@@ -10,7 +10,6 @@
 - [Dataset](#dataset)
 - [References](#references)
 - [Licence](#licence)
-- [Contact](#contact)
 
 ---
 
@@ -88,7 +87,4 @@ Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-d
 ## ⚖️ Licence
 (empty for the moment)
 
----
 
-## 💬 Contact
-For any questions, contact me via email: georgekoupni@gmail.com
