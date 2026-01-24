@@ -8,7 +8,6 @@
 - [Classes](#classes)
 - [Tools & Technologies](#tools-technologies)
 - [Dataset](#dataset)
-- [References](#references)
 - [Licence](#licence)
 
 ---
@@ -65,22 +64,6 @@ The pictures are divided into 11 classes:
 Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
-
-## 🔗 References
-
-  1. https://www.youtube.com/watch?v=oHGVDtgGbGo
-  
-  2. https://chatgpt.com
-  
-  3. https://www.youtube.com/watch?v=FXKMmilL70w
-  
-  4. https://community.deeplearning.ai/t/include-top-parameter-and-usage-of-custom-model-for-transfer-learning/260359/5
-  
-  5. https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/
-  
-  6. https://www.youtube.com/watch?v=F8uFAkHfK18
-  
-  7. https://www.youtube.com/watch?v=LPGAGg3c8SE
 
 ---
 
