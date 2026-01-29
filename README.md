@@ -4,10 +4,10 @@
 
 ## 📚 Table of Contents
 - [Overview](#overview)
+- [Dataset](#dataset)
 - [Approach](#approach)
 - [Classes](#classes)
 - [Tools & Technologies](#tools-technologies)
-- [Dataset](#dataset)
 - [Licence](#licence)
 
 ---
@@ -15,6 +15,12 @@
 ## 🔍 Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
+
+---
+
+## 📊 Dataset
+
+Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
 
@@ -56,12 +62,6 @@ The pictures are divided into 11 classes:
 
 - **Language:** Python (v.??)
 - **Libraries:** (???)
-
----
-
-## 📊 Dataset
-
-Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
 
