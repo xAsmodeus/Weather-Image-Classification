@@ -7,7 +7,7 @@
 - [Dataset](#dataset)
 - [Approach](#approach)
 - [Classes](#classes)
-- [Tools & Technologies](#tools-technologies)
+- [Technology Stack](#teck-stack)
 - [Licence](#licence)
 
 ---
@@ -58,7 +58,7 @@ The pictures are divided into 11 classes:
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technology Stack
 
 - **Language:** Python (v.??)
 - **Libraries:** (???)
