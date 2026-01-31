@@ -59,6 +59,10 @@ The pictures are divided into 11 classes:
 
 ---
 
+## 📊 Results
+
+---
+
 ## 🛠️ Technology Stack
 
 - **Language:** Python (v.??)
