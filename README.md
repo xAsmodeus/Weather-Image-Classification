@@ -68,9 +68,8 @@ The pictures are divided into 11 classes:
 - **Language:** Python (v.??)
 - **Modules:** Tensorflow/Keras, Numpy, Matplotlib (& other)
 - **Platform:** Google Colab
+
 ---
 
 ## ⚖️ Licence
-(empty for the moment)
-
-
+See the [Licence](LICENCE.md/) 
