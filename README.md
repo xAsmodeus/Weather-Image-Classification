@@ -65,7 +65,7 @@ The pictures are divided into 11 classes:
 
 | Variation        | Characteristics | Plots |
 | :--------------- | :-------------- | :--- |
-| **Base Model**   | **Optimizer:** Adam<br>**Learning Rate:** 0.0001<br>**Dropout:** 0.3 | |
+| **Base Model**   | **Pre trained:** MobileNetV2<br> **Optimizer:** Adam<br>**Learning Rate:** 0.0001<br>**Dropout:** 0.3 | |
 | **Variation #1** |                  | |
 | **Variation #2** |                  | |
 | **Variation #3** |                  | |
