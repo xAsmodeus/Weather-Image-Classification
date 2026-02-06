@@ -31,6 +31,9 @@ The [ipynb](classifier.ipynb) file includes the basic model as well as 4 more va
 (LR, Optimizers , Dropout Rates , Pre-trained models and Data Augmentation). 
 The models were trained in 20 epochs, with a MobileNetV2/ResNet150V2 including early stopping for overfitting prevention. The results and the plots are being shown in the [ipynb](classifier.ipynb)  as well as the commentary.
 
+** Hyperparameters**
+
+
 ---
 
 ## 🏷️ Classes
@@ -63,10 +66,10 @@ The pictures are divided into 11 classes:
 
 ## 📊 Results 🚧(under construction)🚧
 
-1) Basic model (Adam, LR = 0.0001, Dropout = 0.3)
-- Optimizer:
-- Learning Rate:
-- Dropout:
+1) Basic model 
+- Optimizer: Adam
+- Learning Rate: 0.0001
+- Dropout: 0.3
 
 
 2) Variation #1
