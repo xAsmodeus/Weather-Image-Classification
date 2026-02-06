@@ -67,6 +67,7 @@ The pictures are divided into 11 classes:
 4) Variation #3
 5) Variation #4 (More data aug)
    ```python
+   # preexisting +
    rotation_range=30,
    width_shift_range=0.2,
    height_shift_range=0.2,
