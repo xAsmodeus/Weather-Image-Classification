@@ -72,16 +72,8 @@ The pictures are divided into 11 classes:
 | **Variation #1** |                  | |
 | **Variation #2** |                  | |
 | **Variation #3** |                  | |
-| **Variation #4** |  (preexisting +):**<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)                 | |
+| **Variation #4** |  (pre-existing Data Aug +):<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)                 | |
 
-5) Variation #4 (More data aug)
-   ```text
-   # preexisting +
-   rotation_range=30,
-   width_shift_range=0.2,
-   height_shift_range=0.2,
-   brightness_range = (0.5, 1.5),
-  
 ---
 
 ## 🛠️ Technology Stack
