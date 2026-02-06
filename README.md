@@ -77,7 +77,7 @@ The pictures are divided into 11 classes:
 
 ## 🛠️ Technology Stack
 
-- **Language:** Python (v.??)
+- **Language:** Python 3.12.12
 - **Modules:** Tensorflow/Keras, Numpy, Matplotlib (& other)
 - **Platform:** Google Colab
 
