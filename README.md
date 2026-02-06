@@ -97,8 +97,7 @@ The pictures are divided into 11 classes:
    width_shift_range=0.2,
    height_shift_range=0.2,
    brightness_range = (0.5, 1.5),
-   
-
+  
 ---
 
 ## 🛠️ Technology Stack
