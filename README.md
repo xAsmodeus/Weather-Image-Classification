@@ -61,6 +61,17 @@ The pictures are divided into 11 classes:
 
 ## 📊 Results
 
+1) Basic model (Adam, LR = 0.0001, Dropout = 0.3)
+2) Dropout = 0.5 & MobileNetV2
+3) Dropout = 0.5 & AdamW & MobileNetV2
+4) ResNet152V2
+5) Variation with extra Data Aug
+   ```python
+   rotation_range=30,
+   width_shift_range=0.2,
+   height_shift_range=0.2,
+   brightness_range = (0.5, 1.5),
+
 ---
 
 ## 🛠️ Technology Stack
