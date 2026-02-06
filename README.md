@@ -64,9 +64,29 @@ The pictures are divided into 11 classes:
 ## 📊 Results 🚧(under construction)🚧
 
 1) Basic model (Adam, LR = 0.0001, Dropout = 0.3)
+- Optimizer:
+- Learning Rate:
+- Dropout:
+
+
 2) Variation #1
+- Optimizer:
+- Learning Rate:
+- Dropout:
+
+
 3) Variation #2
+- Optimizer:
+- Learning Rate:
+- Dropout:
+
+
 4) Variation #3
+- Optimizer:
+- Learning Rate:
+- Dropout:
+
+
 5) Variation #4 (More data aug)
    ```text
    # preexisting +
@@ -74,6 +94,7 @@ The pictures are divided into 11 classes:
    width_shift_range=0.2,
    height_shift_range=0.2,
    brightness_range = (0.5, 1.5),
+   
 
 ---
 
