@@ -59,7 +59,7 @@ The pictures are divided into 11 classes:
 
 ---
 
-## 📊 Results
+## 📊 Results 🚧(under construction)🚧
 
 1) Basic model (Adam, LR = 0.0001, Dropout = 0.3)
 2) Variation #1
