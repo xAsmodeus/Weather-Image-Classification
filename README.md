@@ -27,7 +27,7 @@ Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-d
 
 ## 🧠 Approach
 
-The .ipynb file includes the basic model as well as 4 more variations
+The [ipynb](classifier.ipynb) file includes the basic model as well as 4 more variations
 (LR, Optimizers , Dropout Rates , Pre-trained models and Data Augmentation). 
 The models were trained in 20 epochs, with a MobileNetV2/ResNet150V2 including early stopping for overfitting prevention. The results and the plots are being shown in the .ipynb file as well as the commentary.
 
