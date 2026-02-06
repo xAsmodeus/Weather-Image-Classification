@@ -66,6 +66,15 @@ The pictures are divided into 11 classes:
 
 ## 📊 Results 🚧(under construction)🚧
 
+| Variation        | Characteristics  | Plot |
+| :--------------------- | :------------------------------------------ |:------------------------------------------ |
+| **Base Model**    |                      |                     |
+| **Variation #1**  |                      |                     |
+| **Variation #2**  |                      |                     |
+| **Variation #3**  |                      |                     |
+| **Variation #4**  |                      |                     |
+
+
 1) Basic model 
 - Optimizer: Adam
 - Learning Rate: 0.0001
