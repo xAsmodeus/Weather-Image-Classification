@@ -66,39 +66,13 @@ The pictures are divided into 11 classes:
 
 ## 📊 Results 🚧(under construction)🚧
 
-| Variation        | Characteristics | Plot |
+| Variation        | Characteristics | Plots |
 | :--------------- | :-------------- | :--- |
 | **Base Model**   | **Optimizer:** Adam<br>**Learning Rate:** 0.0001<br>**Dropout:** 0.3 | |
 | **Variation #1** |                  | |
 | **Variation #2** |                  | |
 | **Variation #3** |                  | |
-| **Variation #4** |                  | |
-
-
-
-1) Basic model 
-- Optimizer: Adam
-- Learning Rate: 0.0001
-- Dropout: 0.3
-
-
-2) Variation #1
-- Optimizer:
-- Learning Rate:
-- Dropout:
-
-
-3) Variation #2
-- Optimizer:
-- Learning Rate:
-- Dropout:
-
-
-4) Variation #3
-- Optimizer:
-- Learning Rate:
-- Dropout:
-
+| **Variation #4** |  (preexisting +):**<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)                 | |
 
 5) Variation #4 (More data aug)
    ```text
