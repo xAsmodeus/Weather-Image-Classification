@@ -1,11 +1,5 @@
 <h1 align="center"> Weather Image Classification </h1>
 
-<img src="https://github.com/user-attachments/assets/faa650e0-d346-4ada-9458-c266dcaa90ba" 
-     alt="Weather Classification Project" 
-     width="500" 
-     height="300"
-     align="center"/>
-
 ---
 
 ## 📚 Table of Contents
