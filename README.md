@@ -60,6 +60,14 @@ The pictures are divided into 11 classes:
   11) snow
 
 ---
+## ⚙️ Setup
+
+1) Create a Google Drive folder named " Colab Notebooks "
+2) Upload the .zip dataset in the folder
+3) Make sure Google Drive mount is successful ```python from google.colab import drive
+drive.mount('/content/drive')
+4) ```bash !ls "/content/drive/My Drive/Colab Notebooks/"
+5) '''bash !unzip -o '/content/drive/My Drive/Colab Notebooks/archive.zip' -d '/usr/local/dataset'
 
 ## 📊 Results 🚧(under construction)🚧
 
