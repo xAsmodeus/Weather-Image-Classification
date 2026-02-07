@@ -7,6 +7,7 @@
 - [Dataset](#dataset)
 - [Approach](#approach)
 - [Classes](#classes)
+- [Setup](#setup)
 - [Results](#results)
 - [Technology Stack](#teck-stack)
 - [Licence](#licence)
