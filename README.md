@@ -92,7 +92,7 @@ drive.mount('/content/drive')
 | :--------------- | :-------------- | :--- |
 | **Base Model**   | **Pre trained:** MobileNetV2<br> **Optimizer:** Adam<br>**Learning Rate:** 0.001<br>**Dropout:** 0.3 | <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/92bead64-a134-4995-9e21-cd0c81d4500e" /> |
 | **Variation #1** | **Pre trained:** MobileNetV2<br> **Optimizer:** Adam<br>**Learning Rate:** 0.001<br>**Dropout:** 0.5 | <img width="1189" height="490" alt="var1" src="https://github.com/user-attachments/assets/7f597f20-5176-49e0-be0f-e723f7e1e66e" />  |
-| **Variation #2** | **Pre trained:** MobileNetV2<br> **Optimizer:** AdamW<br>**Learning Rate:** 0.001<br>**Dropout:** 0.5 | | <img width="1189" height="490" alt="var2" src="https://github.com/user-attachments/assets/9e347784-7793-418e-9798-468501827a51" /> |
+| **Variation #2** | **Pre trained:** MobileNetV2<br> **Optimizer:** AdamW<br>**Learning Rate:** 0.001<br>**Dropout:** 0.5 | <img width="1189" height="490" alt="var2" src="https://github.com/user-attachments/assets/9e347784-7793-418e-9798-468501827a51" /> |
 | **Variation #3** | **Pre trained:** ResNet152V2<br> **Optimizer:** Adam<br>**Learning Rate:** 0.001<br>**Dropout:** 0.5  | |
 | **Variation #4** | (base model + extra Data Aug):<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)  | |
 
