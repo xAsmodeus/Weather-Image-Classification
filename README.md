@@ -101,7 +101,7 @@ Image Test:
 ```python
 img_path = '/usr/local/dataset/dataset/fogsmog/4075.jpg'
 ```
-3. Evaluate the prediction
+2. Evaluate the prediction
 
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/77a5284f-12c8-49e4-aa53-8761641fbfdc" />
 
