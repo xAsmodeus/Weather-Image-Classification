@@ -96,6 +96,13 @@ drive.mount('/content/drive')
 | **Variation #3** | **Pre trained:** ResNet152V2<br> **Optimizer:** AdamW<br>**Learning Rate:** 0.001<br>**Dropout:** 0.5  | <img width="1189" height="490" alt="var3" src="https://github.com/user-attachments/assets/bf29017e-c25d-495f-ba0e-8b88fb28f128" /> |
 | **Variation #4** | (base model + extra Data Aug):<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)  | |
 
+Image Test: 
+1. Feed a url to the model ```python img_path = '/usr/local/dataset/dataset/fogsmog/4075.jpg'
+2. Evaluate the prediction
+
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/77a5284f-12c8-49e4-aa53-8761641fbfdc" />
+
+
 ---
 
 ## 🛠️ Technology Stack
