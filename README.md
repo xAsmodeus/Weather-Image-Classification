@@ -105,11 +105,10 @@ img_path = '/usr/local/dataset/dataset/fogsmog/4075.jpg'
 
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/77a5284f-12c8-49e4-aa53-8761641fbfdc" />
 
-)
-
 🏆 Best Performing Model
 
 Variation #4 (Base Model + Data Augmentation) achieved the best overall performance. The curves are very smooth indicating not much overfitting to the dataset.
+
 ---
 
 ## 🛠️ Technology Stack
