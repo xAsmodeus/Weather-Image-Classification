@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Approach](#approach)
@@ -14,19 +14,19 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Download from [OFFICIAL](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset).
 
 ---
 
-## 🧠 Approach
+## Approach
 
 The [.ipynb](classifier.ipynb) file includes the basic model as well as 4 more variations
 (LR, Optimizers , Dropout Rates , Pre-trained models and Data Augmentation). 
@@ -34,7 +34,7 @@ The models were trained in 20 epochs, with a MobileNetV2/ResNet150V2 including e
 
 ---
 
-## 🏷️ Classes
+## Classes
 
 The pictures are divided into 11 classes:
 
@@ -62,7 +62,7 @@ The pictures are divided into 11 classes:
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 1. Create a Google Drive folder named **Colab Notebooks**
 
@@ -86,7 +86,7 @@ drive.mount('/content/drive')
 
 ---
 
-## 📊 Results
+## Results
 
 | Variation        | Characteristics | Plots |
 | :--------------- | :-------------- | :--- |
@@ -105,13 +105,13 @@ img_path = '/usr/local/dataset/dataset/fogsmog/4075.jpg'
 
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/77a5284f-12c8-49e4-aa53-8761641fbfdc" />
 
-### 🏆 Best Performing Model
+### Best Performing Model
 
 Variation #4 (Base Model + Data Augmentation) achieved the best overall performance. The curves are very smooth indicating not much overfitting to the dataset.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language:** Python 3.12.12
 - **Modules:** Tensorflow/Keras, Numpy, Matplotlib (& other)
@@ -119,5 +119,5 @@ Variation #4 (Base Model + Data Augmentation) achieved the best overall performa
 
 ---
 
-## ⚖️ Licence
+## Licence
 See the [License](LICENSE.md/) 
