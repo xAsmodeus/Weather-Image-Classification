@@ -97,7 +97,7 @@ drive.mount('/content/drive')
 | **Variation #4** | (base model + extra Data Aug):<br>rotation_range = 30<br>width_shift_range = 0.2<br>height_shift_range = 0.2<br>brightness_range = (0.5, 1.5)  | <img width="1189" height="490" alt="var4" src="https://github.com/user-attachments/assets/8d8fb058-0c53-42bb-aee9-b0d4bf28bce2"/> |
 
 Image Test: 
-1. Feed a url to the model
+1. Feed a path to the model
 ```python
 img_path = '/usr/local/dataset/dataset/fogsmog/4075.jpg'
 ```
