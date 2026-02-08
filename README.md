@@ -11,6 +11,7 @@
 - [Results](#results)
 - [Technology Stack](#teck-stack)
 - [License](#license)
+- [Credits](#credits)
 
 ---
 
@@ -121,3 +122,7 @@ Variation #4 (Base Model + Data Augmentation) achieved the best overall performa
 
 ## 📜 Licence
 See the [License](LICENSE.md/) 
+
+---
+
+## 🙌 Credits
