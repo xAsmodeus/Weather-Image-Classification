@@ -86,7 +86,7 @@ drive.mount('/content/drive')
 
 ---
 
-## 📊 Results 🚧(under construction)🚧
+## 📊 Results
 
 | Variation        | Characteristics | Plots |
 | :--------------- | :-------------- | :--- |
