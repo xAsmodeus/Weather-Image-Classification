@@ -126,7 +126,8 @@ MIT [License](LICENSE/)
 
 ---
 
-## 🙌 Credits 🚧under construction🚧
+## 🙌 Credits
+
 1. https://www.youtube.com/watch?v=oHGVDtgGbGo
 2. https://www.youtube.com/watch?v=FXKMmilL70w
 3. https://community.deeplearning.ai/t/include-top-parameter-and-usage-of-custom-model-for-transfer-learning/260359/3
