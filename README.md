@@ -122,7 +122,7 @@ Variation #4 (Base Model + Data Augmentation) achieved the best overall performa
 
 ## 🛡️ Licence
 
-Licensed under the MIT [License](LICENSE/) 
+MIT [License](LICENSE/) 
 
 ---
 
