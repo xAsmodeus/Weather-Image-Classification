@@ -134,3 +134,15 @@ MIT [License](LICENSE/)
 4. https://www.youtube.com/watch?v=F8uFAkHfK18
 5. https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/
 6. chatgpt.com
+
+## Credits
+
+| Source |
+|--------|
+| https://www.youtube.com/watch?v=oHGVDtgGbGo | 
+| https://www.youtube.com/watch?v=FXKMmilL70w |
+| https://community.deeplearning.ai/t/include-top-parameter-and-usage-of-custom-model-for-transfer-learning/260359/3 |
+| https://www.youtube.com/watch?v=F8uFAkHfK18 |
+| https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/ |
+| https://chatgpt.com |
+
