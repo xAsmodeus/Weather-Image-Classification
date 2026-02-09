@@ -128,7 +128,7 @@ MIT [License](LICENSE/)
 
 ## 🙌 Credits
 
-| Source |
+| Sources |
 |--------|
 | https://www.youtube.com/watch?v=oHGVDtgGbGo | 
 | https://www.youtube.com/watch?v=FXKMmilL70w |
