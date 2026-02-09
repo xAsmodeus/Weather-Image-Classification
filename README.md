@@ -136,3 +136,4 @@ MIT [License](LICENSE/)
 | https://www.youtube.com/watch?v=F8uFAkHfK18 |
 | https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/ |
 | https://chatgpt.com |
+| https://gemini.google.com |
