@@ -137,3 +137,12 @@ MIT [License](LICENSE/)
 | https://www.geeksforgeeks.org/top-pre-trained-models-for-image-classification/ |
 | https://chatgpt.com |
 | https://gemini.google.com |
+
+---
+
+<div align="center">
+
+## 📬 Contact
+
+For any particular questions you can reach me via the email: georgekoupni@gmail.com
+
