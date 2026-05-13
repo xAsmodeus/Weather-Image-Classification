@@ -3,19 +3,20 @@
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Approach](#approach)
-- [Classes](#classes)
-- [Setup](#setup)
-- [Results](#results)
-- [Technology Stack](#teck-stack)
-- [License](#license)
-- [Credits](#credits)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Approach](#-approach)
+- [Classes](#-classes)
+- [Setup](#-setup)
+- [Results](#-results)
+- [Technology Stack](#-technology-stack)
+- [License](#-license)
+- [Credits](#-credits)
+- [Contact](#-contact)
 
 ---
 
-## 🧭 Overview
+## 🔍 Overview
 
 This program uses Python and the Tensorflow / Keras modules to classify Weather Images from a Kaggle dataset.
 
@@ -27,7 +28,7 @@ Download from [KAGGLE](https://www.kaggle.com/datasets/jehanbhathena/weather-dat
 
 ---
 
-## 🛠️ Approach
+## 💡 Approach
 
 The [.ipynb](classifier.ipynb) file includes the basic model as well as 4 more variations
 (LR, Optimizers , Dropout Rates , Pre-trained models and Data Augmentation). 
@@ -63,7 +64,7 @@ The pictures are divided into 11 classes:
 
 ---
 
-## ⚙️ Setup
+## 🔧 Setup
 
 1. Create a Google Drive folder named **Colab Notebooks**
 
@@ -120,7 +121,7 @@ Variation #4 (Base Model + Data Augmentation) achieved the best overall performa
 
 ---
 
-## 🛡️ License
+## 📜 License
 
 MIT [License](LICENSE/) 
 
