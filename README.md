@@ -22,7 +22,7 @@ This program uses Python and the Tensorflow / Keras modules to classify Weather 
 
 ---
 
-## 🗂️ Dataset
+## 💾 Dataset
 
 Download from [KAGGLE](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset).
 
